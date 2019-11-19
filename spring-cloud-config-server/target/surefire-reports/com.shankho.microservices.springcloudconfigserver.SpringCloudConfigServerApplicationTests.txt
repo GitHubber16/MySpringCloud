@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.shankho.microservices.springcloudconfigserver.SpringCloudConfigServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.635 s <<< FAILURE! - in com.shankho.microservices.springcloudconfigserver.SpringCloudConfigServerApplicationTests
+contextLoads  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+
